@@ -1,4 +1,4 @@
-##pafnucy_pytoch
+## pafnucy_pytoch
 a pytorch implementation of Pafnucy.
 
 Please find more about Pafnucy [here](https://gitlab.com/cheminfIBB/pafnucy).
